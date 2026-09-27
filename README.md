@@ -2,63 +2,63 @@
 
 # drifer97
 
-### Creative Developer · XR / VR · Interactive Experiences
+### Desenvolvedor Criativo · XR / VR · Experiências Interativas
 
-**Code, interaction and immersive technology.**
+**Código, interação e tecnologia imersiva.**
 
-I build experiments and applications at the intersection of  
-**software · extended reality · computer vision · interactive media**.
+Desenvolvo experimentos e aplicações na interseção entre  
+**software · realidade estendida · visão computacional · mídia interativa**.
 
 </div>
 
 ---
 
-### ◉ About
+### ◉ Sobre
 
-I'm a developer interested in experiences that go beyond traditional interfaces.
+Sou um desenvolvedor interessado em experiências que vão além das interfaces tradicionais.
 
-My work explores **XR/VR, interactive systems, computer vision and creative development**, combining technology with experimentation, accessibility and new ways of interacting with digital content.
+Meu trabalho explora **XR/VR, sistemas interativos, visão computacional e desenvolvimento criativo**, combinando tecnologia com experimentação, acessibilidade e novas formas de interagir com conteúdos digitais.
 
-Currently studying and building with **C#, Unity, Unreal Engine and web technologies**.
-
----
-
-### ◈ What I'm exploring
-
-`XR & VR` · `Interactive Experiences` · `Computer Vision` · `Creative Coding` · `Accessibility` · `AI`
+Atualmente estudo e desenvolvo projetos utilizando **C#, Unity, Unreal Engine e tecnologias web**.
 
 ---
 
-### ◇ Core tools
+### ◈ O que estou explorando
 
-**Languages**  
+`XR & VR` · `Experiências Interativas` · `Visão Computacional` · `Creative Coding` · `Acessibilidade` · `IA`
+
+---
+
+### ◇ Principais ferramentas
+
+**Linguagens**  
 C# · JavaScript · Python · C / C++
 
-**Real-time & XR**  
+**Tempo real & XR**  
 Unity · Unreal Engine · Meta Quest
 
 **Web**  
 HTML · CSS · JavaScript
 
-**Creative / Vision**  
+**Criatividade / Visão Computacional**  
 OpenCV · YOLO · TouchDesigner · Blender
 
-**Tools**  
+**Ferramentas**  
 Git · GitHub · Visual Studio · VS Code
 
 ---
 
-### ⟡ Building toward
+### ⟡ Construindo em direção a
 
-> Technology should not only work.  
-> It should create new ways to **see, interact and experience**.
+> A tecnologia não deve apenas funcionar.  
+> Ela deve criar novas formas de **ver, interagir e experienciar**.
 
-I'm especially interested in projects involving **immersive computing, museums & culture, accessibility and experimental interfaces**.
+Tenho interesse especial em projetos envolvendo **computação imersiva, museus & cultura, acessibilidade e interfaces experimentais**.
 
 ---
 
 <div align="center">
 
-**drifer97 // creative technology & immersive development**
+**drifer97 // tecnologia criativa & desenvolvimento imersivo**
 
 </div>
